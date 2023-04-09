@@ -1,0 +1,58 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+h1 {font-size: 300%; border-color: #DEA057; }
+div span {background-color: black;}
+h2,h3,p  {text-align: center;}
+h2 {color: #6D5D6E;}
+h3 {color: #6D5D6E;}
+.btn-light {
+    color: #f8f9fa;
+    background-color: #FFFBF5;
+    border-color: #DEA057;
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: #FFA559 !important;}
+
+.bg-primary {
+    background-color: #F6F1E9; opacity: 0.8 !important;}
+.bg-primary {
+    background-image: url("glasses.jpeg") !important;
+}
+    
+body {font-family:'Alegreya', serif; color: black; background-color: #FFFBF5;}
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: #D7E9B9 !important;
+}
+
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #DEA057;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #DEA057;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration:none; 
+	color: #C55300;
+	}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.300-px-wide {
+    width: 200px;
+}
+
+.row {padding: 100px 20px;}
+
+.dropdown {text-align: center;}
+
+
